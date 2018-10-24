@@ -1,3 +1,3 @@
 # CmpSci-311
 
-These are projects completed in Systems Programming Course 
+These are projects and homeworks completed in Systems Programming Course.
