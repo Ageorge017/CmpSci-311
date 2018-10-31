@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * <Albert George atg5215>
+ * <ageorge017>
  */
 #include <stdio.h>
 #include <stdlib.h>
